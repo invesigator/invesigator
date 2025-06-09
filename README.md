@@ -2,10 +2,10 @@
 
 🎓 **Fresh Graduate**  
 💡 **Tech Stack:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python
-&nbsp;&nbsp;&nbsp;&nbsp;• C++
-&nbsp;&nbsp;&nbsp;&nbsp;• Java
-&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
+- Python
+- C++
+- Java
+- HTML, CSS, JavaScript
 
 ---
 
