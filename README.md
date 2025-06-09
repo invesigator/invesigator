@@ -20,8 +20,8 @@ I am actively seeking entry-level software development opportunities where I can
 - Contribute to meaningful software solutions
 
 ## 📫 Let's Connect!
-- Email: soojiasheng90@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jia-sheng-3783a1283/)
+- Email: [myEmail](soojiasheng90@gmail.com)
+- LinkedIn: [myProfile](https://www.linkedin.com/in/jia-sheng-3783a1283/)
 - GitHub: You're already here! 😄
 ---
 
